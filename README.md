@@ -1,1 +1,1 @@
-# keras-tSNE
+# Parametric t-SNE by Keras(GPU)
